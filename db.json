@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "title": "Iphone 13",
+      "price": "1300",
+      "image": "",
+      "id": 2
+    },
+    {
+      "title": "Iphone",
+      "price": "1000",
+      "image": "",
+      "id": 3
+    }
+  ]
+}
